@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../jahnavi.html"
+		},
+		{
+			"path": "../RESUME"
+		},
+		{
+			"path": "../HomePage"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "project_p"
+	}
+}
